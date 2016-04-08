@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>user.svg</file>
+        <file>Users.qml</file>
+        <file>Transaction.qml</file>
+        <file>Block.qml</file>
+        <file>AnimatedListView.qml</file>
+        <file>Blockchain.qml</file>
+    </qresource>
+</RCC>
