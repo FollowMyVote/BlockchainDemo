@@ -43,7 +43,6 @@ ListView {
         }
 
         ListView.onAdd: {
-            console.log("Add")
             var updater = function() {
                 content.state = "REPARENTED"
                 yAnimation.stopped.disconnect(updater)
